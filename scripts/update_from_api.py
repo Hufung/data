@@ -8,7 +8,7 @@ API_URL = "https://api.data.gov.hk/v1/carpark-info-vacancy?data=info"
 
 # This is the path to the file in your repository where you want to save the data.
 # Make sure the directory (e.g., 'data/') exists in your repo.
-OUTPUT_FILE_PATH = "data/carpark_data.json"
+OUTPUT_FILE_PATH = "carpark_data.json"
 # --- End of Configuration ---
 
 def fetch_api_data():
