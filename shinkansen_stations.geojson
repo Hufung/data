@@ -1,0 +1,2219 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "出水 / 出水 / 出水",
+        "name_jp": "出水",
+        "name_en": "出水",
+        "name_tc": "出水",
+        "line": "九州新幹線 / Kyushu Shinkansen / 九州新幹線",
+        "color": "#e60012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3584575,
+          32.0894275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新八代 / 新八代 / 新八代",
+        "name_jp": "新八代",
+        "name_en": "新八代",
+        "name_tc": "新八代",
+        "line": "九州新幹線 / Kyushu Shinkansen / 九州新幹線",
+        "color": "#e60012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.635033,
+          32.517586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新水俣 / 新水俣 / 新水俣",
+        "name_jp": "新水俣",
+        "name_en": "新水俣",
+        "name_tc": "新水俣",
+        "line": "九州新幹線 / Kyushu Shinkansen / 九州新幹線",
+        "color": "#e60012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.428765,
+          32.210645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鹿児島中央 / 鹿児島中央 / 鹿児島中央",
+        "name_jp": "鹿児島中央",
+        "name_en": "鹿児島中央",
+        "name_tc": "鹿児島中央",
+        "line": "九州新幹線 / Kyushu Shinkansen / 九州新幹線",
+        "color": "#e60012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.54102999999998,
+          31.583775000000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "川内 / 川内 / 川内",
+        "name_jp": "川内",
+        "name_en": "川内",
+        "name_tc": "川内",
+        "line": "九州新幹線 / Kyushu Shinkansen / 九州新幹線",
+        "color": "#e60012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.312405,
+          31.813515000000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新大阪 / Shin-Osaka / 新大阪",
+        "name_jp": "新大阪",
+        "name_en": "Shin-Osaka",
+        "name_tc": "新大阪",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500035,
+          34.73368000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新大阪 / Shin-Osaka / 新大阪",
+        "name_jp": "新大阪",
+        "name_en": "Shin-Osaka",
+        "name_tc": "新大阪",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.50014499999997,
+          34.7334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新神戶 / 新神戸 / 新神戸",
+        "name_jp": "新神戸",
+        "name_en": "新神戸",
+        "name_tc": "新神戶",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.197035,
+          34.707319999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "西明石 / 西明石 / 西明石",
+        "name_jp": "西明石",
+        "name_en": "西明石",
+        "name_tc": "西明石",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.96057666666667,
+          34.66702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "姫路 / 姫路 / 姫路",
+        "name_jp": "姫路",
+        "name_en": "姫路",
+        "name_tc": "姫路",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.69122333333334,
+          34.82637333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "相生 / 相生 / 相生",
+        "name_jp": "相生",
+        "name_en": "相生",
+        "name_tc": "相生",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.47436,
+          34.81827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "岡山 / 岡山 / 岡山",
+        "name_jp": "岡山",
+        "name_en": "岡山",
+        "name_tc": "岡山",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.91797,
+          34.665634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新尾道 / 新尾道 / 新尾道",
+        "name_jp": "新尾道",
+        "name_en": "新尾道",
+        "name_tc": "新尾道",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.19021500000002,
+          34.430080000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新倉敷 / 新倉敷 / 新倉敷",
+        "name_jp": "新倉敷",
+        "name_en": "新倉敷",
+        "name_tc": "新倉敷",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.67836,
+          34.565079999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "福山 / 福山 / 福山",
+        "name_jp": "福山",
+        "name_en": "福山",
+        "name_tc": "福山",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.36129999999997,
+          34.4892475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "三原 / 三原 / 三原",
+        "name_jp": "三原",
+        "name_en": "三原",
+        "name_tc": "三原",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.08329,
+          34.400825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "東広島 / 東広島 / 東広島",
+        "name_jp": "東広島",
+        "name_en": "東広島",
+        "name_tc": "東広島",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.75945666666667,
+          34.38919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "廣島 / 広島 / 広島",
+        "name_jp": "広島",
+        "name_en": "広島",
+        "name_tc": "廣島",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.47517,
+          34.398465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "徳山 / 徳山 / 徳山",
+        "name_jp": "徳山",
+        "name_en": "徳山",
+        "name_tc": "徳山",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.80212833333334,
+          34.051098333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新岩国 / 新岩国 / 新岩国",
+        "name_jp": "新岩国",
+        "name_en": "新岩国",
+        "name_tc": "新岩国",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.149695,
+          34.16485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "厚狭 / 厚狭 / 厚狭",
+        "name_jp": "厚狭",
+        "name_en": "厚狭",
+        "name_tc": "厚狭",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.16040666666666,
+          34.05300666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "小倉 / 小倉 / 小倉",
+        "name_jp": "小倉",
+        "name_en": "小倉",
+        "name_tc": "小倉",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.883455,
+          33.88712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新山口 / 新山口 / 新山口",
+        "name_jp": "新山口",
+        "name_en": "新山口",
+        "name_tc": "新山口",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.397235,
+          34.0933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新下関 / 新下関 / 新下関",
+        "name_jp": "新下関",
+        "name_en": "新下関",
+        "name_tc": "新下関",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.949175,
+          34.007405000000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "博多 / Hakata / 博多",
+        "name_jp": "博多",
+        "name_en": "Hakata",
+        "name_tc": "博多",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.421175,
+          33.589574999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "博多 / Hakata / 博多",
+        "name_jp": "博多",
+        "name_en": "Hakata",
+        "name_tc": "博多",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.421175,
+          33.589574999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "博多南 / Hakata-Minami / 博多南",
+        "name_jp": "博多南",
+        "name_en": "Hakata-Minami",
+        "name_tc": "博多南",
+        "line": "山陽新幹線 / Sanyo Shinkansen / 山陽新幹線",
+        "color": "#0072bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.43688500000002,
+          33.51796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "東京 / Tokyo / 東京",
+        "name_jp": "東京",
+        "name_en": "Tokyo",
+        "name_tc": "東京",
+        "line": "東海道新幹線 / Tokaido Shinkansen / 東海道新幹線",
+        "color": "#f68b1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76788,
+          35.68110333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "品川 / 品川 / 品川",
+        "name_jp": "品川",
+        "name_en": "品川",
+        "name_tc": "品川",
+        "line": "東海道新幹線 / Tokaido Shinkansen / 東海道新幹線",
+        "color": "#f68b1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.74006875,
+          35.629563749999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新橫濱 / 新横浜 / 新横浜",
+        "name_jp": "新横浜",
+        "name_en": "新横浜",
+        "name_tc": "新橫濱",
+        "line": "東海道新幹線 / Tokaido Shinkansen / 東海道新幹線",
+        "color": "#f68b1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.61719499999998,
+          35.5069825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "小田原 / 小田原 / 小田原",
+        "name_jp": "小田原",
+        "name_en": "小田原",
+        "name_tc": "小田原",
+        "line": "東海道新幹線 / Tokaido Shinkansen / 東海道新幹線",
+        "color": "#f68b1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.154765,
+          35.256209999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "三島 / 三島 / 三島",
+        "name_jp": "三島",
+        "name_en": "三島",
+        "name_tc": "三島",
+        "line": "東海道新幹線 / Tokaido Shinkansen / 東海道新幹線",
+        "color": "#f68b1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.90969,
+          35.12671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "熱海 / 熱海 / 熱海",
+        "name_jp": "熱海",
+        "name_en": "熱海",
+        "name_tc": "熱海",
+        "line": "東海道新幹線 / Tokaido Shinkansen / 東海道新幹線",
+        "color": "#f68b1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0781675,
+          35.1044125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "静岡 / 静岡 / 静岡",
+        "name_jp": "静岡",
+        "name_en": "静岡",
+        "name_tc": "静岡",
+        "line": "東海道新幹線 / Tokaido Shinkansen / 東海道新幹線",
+        "color": "#f68b1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.389675,
+          34.9717425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "掛川 / 掛川 / 掛川",
+        "name_jp": "掛川",
+        "name_en": "掛川",
+        "name_tc": "掛川",
+        "line": "東海道新幹線 / Tokaido Shinkansen / 東海道新幹線",
+        "color": "#f68b1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.01599833333333,
+          34.76924999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新富士 / 新富士 / 新富士",
+        "name_jp": "新富士",
+        "name_en": "新富士",
+        "name_tc": "新富士",
+        "line": "東海道新幹線 / Tokaido Shinkansen / 東海道新幹線",
+        "color": "#f68b1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.66300875,
+          35.1420675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "岐阜羽島 / 岐阜羽島 / 岐阜羽島",
+        "name_jp": "岐阜羽島",
+        "name_en": "岐阜羽島",
+        "name_tc": "岐阜羽島",
+        "line": "東海道新幹線 / Tokaido Shinkansen / 東海道新幹線",
+        "color": "#f68b1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.685755,
+          35.315740000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "名古屋 / 名古屋 / 名古屋",
+        "name_jp": "名古屋",
+        "name_en": "名古屋",
+        "name_tc": "名古屋",
+        "line": "東海道新幹線 / Tokaido Shinkansen / 東海道新幹線",
+        "color": "#f68b1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8809575,
+          35.17075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "米原 / 米原 / 米原",
+        "name_jp": "米原",
+        "name_en": "米原",
+        "name_tc": "米原",
+        "line": "東海道新幹線 / Tokaido Shinkansen / 東海道新幹線",
+        "color": "#f68b1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.28952333333334,
+          35.31505666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "京都 / 京都 / 京都",
+        "name_jp": "京都",
+        "name_en": "京都",
+        "name_tc": "京都",
+        "line": "東海道新幹線 / Tokaido Shinkansen / 東海道新幹線",
+        "color": "#f68b1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75834333333333,
+          34.98461333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "三河安城 / 三河安城 / 三河安城",
+        "name_jp": "三河安城",
+        "name_en": "三河安城",
+        "name_tc": "三河安城",
+        "line": "東海道新幹線 / Tokaido Shinkansen / 東海道新幹線",
+        "color": "#f68b1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.06030333333334,
+          34.96902666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "浜松 / 浜松 / 浜松",
+        "name_jp": "浜松",
+        "name_en": "浜松",
+        "name_tc": "浜松",
+        "line": "東海道新幹線 / Tokaido Shinkansen / 東海道新幹線",
+        "color": "#f68b1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.7353775,
+          34.70376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "豊橋 / 豊橋 / 豊橋",
+        "name_jp": "豊橋",
+        "name_en": "豊橋",
+        "name_tc": "豊橋",
+        "line": "東海道新幹線 / Tokaido Shinkansen / 東海道新幹線",
+        "color": "#f68b1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.38115,
+          34.76289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新大阪 / Shin-Osaka / 新大阪",
+        "name_jp": "新大阪",
+        "name_en": "Shin-Osaka",
+        "name_tc": "新大阪",
+        "line": "東海道新幹線 / Tokaido Shinkansen / 東海道新幹線",
+        "color": "#f68b1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.50014499999997,
+          34.7334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新大阪 / Shin-Osaka / 新大阪",
+        "name_jp": "新大阪",
+        "name_en": "Shin-Osaka",
+        "name_tc": "新大阪",
+        "line": "東海道新幹線 / Tokaido Shinkansen / 東海道新幹線",
+        "color": "#f68b1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500035,
+          34.73368000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "秋田 / Akita / 秋田",
+        "name_jp": "秋田",
+        "name_en": "Akita",
+        "name_tc": "秋田",
+        "line": "秋田新幹線 / Akita Shinkansen / 秋田新幹線",
+        "color": "#990099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.12949500000002,
+          39.717299999999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "秋田 / Akita / 秋田",
+        "name_jp": "秋田",
+        "name_en": "Akita",
+        "name_tc": "秋田",
+        "line": "秋田新幹線 / Akita Shinkansen / 秋田新幹線",
+        "color": "#990099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.12975,
+          39.71755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大曲 / Omagari / 大曲",
+        "name_jp": "大曲",
+        "name_en": "Omagari",
+        "name_tc": "大曲",
+        "line": "秋田新幹線 / Akita Shinkansen / 秋田新幹線",
+        "color": "#990099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.47954,
+          39.46586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新庄 / Shinjo / 新庄",
+        "name_jp": "新庄",
+        "name_en": "Shinjo",
+        "name_tc": "新庄",
+        "line": "山形新幹線 / Yamagata Shinkansen / 山形新幹線",
+        "color": "#990099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.306105,
+          38.762515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "福島 / 福島 / 福島",
+        "name_jp": "福島",
+        "name_en": "福島",
+        "name_tc": "福島",
+        "line": "山形新幹線 / Yamagata Shinkansen / 山形新幹線",
+        "color": "#990099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.45962500000002,
+          37.754310000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "福島 / 福島 / 福島",
+        "name_jp": "福島",
+        "name_en": "福島",
+        "name_tc": "福島",
+        "line": "山形新幹線 / Yamagata Shinkansen / 山形新幹線",
+        "color": "#990099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.45860333333334,
+          37.753710000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "高畠 / 高畠 / 高畠",
+        "name_jp": "高畠",
+        "name_en": "高畠",
+        "name_tc": "高畠",
+        "line": "山形新幹線 / Yamagata Shinkansen / 山形新幹線",
+        "color": "#990099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.15281,
+          37.992335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "村山 / 村山 / 村山",
+        "name_jp": "村山",
+        "name_en": "村山",
+        "name_tc": "村山",
+        "line": "山形新幹線 / Yamagata Shinkansen / 山形新幹線",
+        "color": "#990099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.38642,
+          38.4771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "かみのやま温泉 / かみのやま温泉 / かみのやま温泉",
+        "name_jp": "かみのやま温泉",
+        "name_en": "かみのやま温泉",
+        "name_tc": "かみのやま温泉",
+        "line": "山形新幹線 / Yamagata Shinkansen / 山形新幹線",
+        "color": "#990099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.27845000000002,
+          38.151905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大石田 / 大石田 / 大石田",
+        "name_jp": "大石田",
+        "name_en": "大石田",
+        "name_tc": "大石田",
+        "line": "山形新幹線 / Yamagata Shinkansen / 山形新幹線",
+        "color": "#990099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.375385,
+          38.59582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "さくらんぼ東根 / さくらんぼ東根 / さくらんぼ東根",
+        "name_jp": "さくらんぼ東根",
+        "name_en": "さくらんぼ東根",
+        "name_tc": "さくらんぼ東根",
+        "line": "山形新幹線 / Yamagata Shinkansen / 山形新幹線",
+        "color": "#990099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.38076,
+          38.42861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天童 / 天童 / 天童",
+        "name_jp": "天童",
+        "name_en": "天童",
+        "name_tc": "天童",
+        "line": "山形新幹線 / Yamagata Shinkansen / 山形新幹線",
+        "color": "#990099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.36943,
+          38.36005666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "山形 / Yamagata / 山形",
+        "name_jp": "山形",
+        "name_en": "Yamagata",
+        "name_tc": "山形",
+        "line": "山形新幹線 / Yamagata Shinkansen / 山形新幹線",
+        "color": "#990099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.3274725,
+          38.24845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "赤湯 / 赤湯 / 赤湯",
+        "name_jp": "赤湯",
+        "name_en": "赤湯",
+        "name_tc": "赤湯",
+        "line": "山形新幹線 / Yamagata Shinkansen / 山形新幹線",
+        "color": "#990099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.14901,
+          38.04723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "米沢 / 米沢 / 米沢",
+        "name_jp": "米沢",
+        "name_en": "米沢",
+        "name_tc": "米沢",
+        "line": "山形新幹線 / Yamagata Shinkansen / 山形新幹線",
+        "color": "#990099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.128285,
+          37.909414999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "浦佐 / 浦佐 / 浦佐",
+        "name_jp": "浦佐",
+        "name_en": "浦佐",
+        "name_tc": "浦佐",
+        "line": "上越新幹線 / Joetsu Shinkansen / 上越新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.92273500000002,
+          37.16772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "長岡 / 長岡 / 長岡",
+        "name_jp": "長岡",
+        "name_en": "長岡",
+        "name_tc": "長岡",
+        "line": "上越新幹線 / Joetsu Shinkansen / 上越新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.85397,
+          37.447765000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "燕三条 / 燕三条 / 燕三条",
+        "name_jp": "燕三条",
+        "name_en": "燕三条",
+        "name_tc": "燕三条",
+        "line": "上越新幹線 / Joetsu Shinkansen / 上越新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.93865000000002,
+          37.64786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新潟 / 新潟 / 新潟",
+        "name_jp": "新潟",
+        "name_en": "新潟",
+        "name_tc": "新潟",
+        "line": "上越新幹線 / Joetsu Shinkansen / 上越新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.061745,
+          37.912005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上毛高原 / 上毛高原 / 上毛高原",
+        "name_jp": "上毛高原",
+        "name_en": "上毛高原",
+        "name_tc": "上毛高原",
+        "line": "上越新幹線 / Joetsu Shinkansen / 上越新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9775975,
+          36.69299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "本庄早稲田 / 本庄早稲田 / 本庄早稲田",
+        "name_jp": "本庄早稲田",
+        "name_en": "本庄早稲田",
+        "name_tc": "本庄早稲田",
+        "line": "上越新幹線 / Joetsu Shinkansen / 上越新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.17975124999998,
+          36.21867625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "越後湯沢 / 越後湯沢 / 越後湯沢",
+        "name_jp": "越後湯沢",
+        "name_en": "越後湯沢",
+        "name_tc": "越後湯沢",
+        "line": "上越新幹線 / Joetsu Shinkansen / 上越新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.80927333333332,
+          36.935719999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "高崎 / 高崎 / 高崎",
+        "name_jp": "高崎",
+        "name_en": "高崎",
+        "name_tc": "高崎",
+        "line": "上越新幹線 / Joetsu Shinkansen / 上越新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.013024,
+          36.322644000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大宮 / 大宮 / 大宮",
+        "name_jp": "大宮",
+        "name_en": "大宮",
+        "name_tc": "大宮",
+        "line": "上越新幹線 / Joetsu Shinkansen / 上越新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.62309666666667,
+          35.90617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "熊谷 / 熊谷 / 熊谷",
+        "name_jp": "熊谷",
+        "name_en": "熊谷",
+        "name_tc": "熊谷",
+        "line": "上越新幹線 / Joetsu Shinkansen / 上越新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.389645,
+          36.1395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "雫石 / 雫石 / 雫石",
+        "name_jp": "雫石",
+        "name_en": "雫石",
+        "name_tc": "雫石",
+        "line": "秋田新幹線 / Akita Shinkansen / 秋田新幹線",
+        "color": "#990099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.97481,
+          39.68923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "盛岡 / 盛岡 / 盛岡",
+        "name_jp": "盛岡",
+        "name_en": "盛岡",
+        "name_tc": "盛岡",
+        "line": "秋田新幹線 / Akita Shinkansen / 秋田新幹線",
+        "color": "#990099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.13653,
+          39.70155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "田沢湖 / 田沢湖 / 田沢湖",
+        "name_jp": "田沢湖",
+        "name_en": "田沢湖",
+        "name_tc": "田沢湖",
+        "line": "秋田新幹線 / Akita Shinkansen / 秋田新幹線",
+        "color": "#990099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.72229249999998,
+          39.7004425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "角館 / 角館 / 角館",
+        "name_jp": "角館",
+        "name_en": "角館",
+        "name_tc": "角館",
+        "line": "秋田新幹線 / Akita Shinkansen / 秋田新幹線",
+        "color": "#990099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.57118,
+          39.591795000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大曲 / Omagari / 大曲",
+        "name_jp": "大曲",
+        "name_en": "Omagari",
+        "name_tc": "大曲",
+        "line": "秋田新幹線 / Akita Shinkansen / 秋田新幹線",
+        "color": "#990099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.47954,
+          39.46586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "二戸 / 二戸 / 二戸",
+        "name_jp": "二戸",
+        "name_en": "二戸",
+        "name_tc": "二戸",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.28559,
+          40.259775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "いわて沼宮内 / いわて沼宮内 / いわて沼宮内",
+        "name_jp": "いわて沼宮内",
+        "name_en": "いわて沼宮内",
+        "name_tc": "いわて沼宮内",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.21742,
+          39.960615000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "八戸 / 八戸 / 八戸",
+        "name_jp": "八戸",
+        "name_en": "八戸",
+        "name_tc": "八戸",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.430935,
+          40.509325000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "盛岡 / 盛岡 / 盛岡",
+        "name_jp": "盛岡",
+        "name_en": "盛岡",
+        "name_tc": "盛岡",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.13653,
+          39.70155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "北上 / 北上 / 北上",
+        "name_jp": "北上",
+        "name_en": "北上",
+        "name_tc": "北上",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1226075,
+          39.28225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "水沢江刺 / 水沢江刺 / 水沢江刺",
+        "name_jp": "水沢江刺",
+        "name_en": "水沢江刺",
+        "name_tc": "水沢江刺",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.188705,
+          39.145160000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "一ノ関 / 一ノ関 / 一ノ関",
+        "name_jp": "一ノ関",
+        "name_en": "一ノ関",
+        "name_tc": "一ノ関",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.13909999999998,
+          38.926445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新花巻 / 新花巻 / 新花巻",
+        "name_jp": "新花巻",
+        "name_en": "新花巻",
+        "name_tc": "新花巻",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.17361499999998,
+          39.4065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "古川 / 古川 / 古川",
+        "name_jp": "古川",
+        "name_en": "古川",
+        "name_tc": "古川",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9677875,
+          38.57075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "くりこま高原 / くりこま高原 / くりこま高原",
+        "name_jp": "くりこま高原",
+        "name_en": "くりこま高原",
+        "name_tc": "くりこま高原",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.07121857142857,
+          38.74822857142857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙台 / 仙台 / 仙台",
+        "name_jp": "仙台",
+        "name_en": "仙台",
+        "name_tc": "仙台",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.882155,
+          38.2609725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "福島 / 福島 / 福島",
+        "name_jp": "福島",
+        "name_en": "福島",
+        "name_tc": "福島",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.45860333333334,
+          37.753710000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "白石蔵王 / 白石蔵王 / 白石蔵王",
+        "name_jp": "白石蔵王",
+        "name_en": "白石蔵王",
+        "name_tc": "白石蔵王",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.63296,
+          37.994980000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "郡山 / 郡山 / 郡山",
+        "name_jp": "郡山",
+        "name_en": "郡山",
+        "name_tc": "郡山",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.38862,
+          37.39862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "那須塩原 / 那須塩原 / 那須塩原",
+        "name_jp": "那須塩原",
+        "name_en": "那須塩原",
+        "name_tc": "那須塩原",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.02046857142858,
+          36.931447142857145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新白河 / 新白河 / 新白河",
+        "name_jp": "新白河",
+        "name_en": "新白河",
+        "name_tc": "新白河",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.18903666666668,
+          37.12353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "宇都宮 / 宇都宮 / 宇都宮",
+        "name_jp": "宇都宮",
+        "name_en": "宇都宮",
+        "name_tc": "宇都宮",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.89809,
+          36.558769999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "小山 / 小山 / 小山",
+        "name_jp": "小山",
+        "name_en": "小山",
+        "name_tc": "小山",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.806355,
+          36.313545000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上野 / 上野 / 上野",
+        "name_jp": "上野",
+        "name_en": "上野",
+        "name_tc": "上野",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.77738499999998,
+          35.713315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大宮 / 大宮 / 大宮",
+        "name_jp": "大宮",
+        "name_en": "大宮",
+        "name_tc": "大宮",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.62309666666667,
+          35.90617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "東京 / Tokyo / 東京",
+        "name_jp": "東京",
+        "name_en": "Tokyo",
+        "name_tc": "東京",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76788,
+          35.68110333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "高崎 / 高崎 / 高崎",
+        "name_jp": "高崎",
+        "name_en": "高崎",
+        "name_tc": "高崎",
+        "line": "北陸新幹線 / Hokuriku Shinkansen / 北陸新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.013024,
+          36.322644000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "安中榛名 / 安中榛名 / 安中榛名",
+        "name_jp": "安中榛名",
+        "name_en": "安中榛名",
+        "name_tc": "安中榛名",
+        "line": "北陸新幹線 / Hokuriku Shinkansen / 北陸新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.84959333333333,
+          36.362543333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "佐久平 / 佐久平 / 佐久平",
+        "name_jp": "佐久平",
+        "name_en": "佐久平",
+        "name_tc": "佐久平",
+        "line": "北陸新幹線 / Hokuriku Shinkansen / 北陸新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.46475999999998,
+          36.278200000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "軽井沢 / 軽井沢 / 軽井沢",
+        "name_jp": "軽井沢",
+        "name_en": "軽井沢",
+        "name_tc": "軽井沢",
+        "line": "北陸新幹線 / Hokuriku Shinkansen / 北陸新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.6349175,
+          36.3425975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上田 / 上田 / 上田",
+        "name_jp": "上田",
+        "name_en": "上田",
+        "name_tc": "上田",
+        "line": "北陸新幹線 / Hokuriku Shinkansen / 北陸新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.25023,
+          36.39614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "長野 / 長野 / 長野",
+        "name_jp": "長野",
+        "name_en": "長野",
+        "name_tc": "長野",
+        "line": "北陸新幹線 / Hokuriku Shinkansen / 北陸新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.18887,
+          36.642815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "七戸十和田 / 七戸十和田 / 七戸十和田",
+        "name_jp": "七戸十和田",
+        "name_en": "七戸十和田",
+        "name_tc": "七戸十和田",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1539085,
+          40.719931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新青森 / 新青森 / 新青森",
+        "name_jp": "新青森",
+        "name_en": "新青森",
+        "name_tc": "新青森",
+        "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.69347975,
+          40.82779875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "熊本 / 熊本 / 熊本",
+        "name_jp": "熊本",
+        "name_en": "熊本",
+        "name_tc": "熊本",
+        "line": "九州新幹線 / Kyushu Shinkansen / 九州新幹線",
+        "color": "#e60012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.68868600000002,
+          32.79053866666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新玉名 / 新玉名 / 新玉名",
+        "name_jp": "新玉名",
+        "name_en": "新玉名",
+        "name_tc": "新玉名",
+        "line": "九州新幹線 / Kyushu Shinkansen / 九州新幹線",
+        "color": "#e60012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.57340833333333,
+          32.942709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新大牟田 / 新大牟田 / 新大牟田",
+        "name_jp": "新大牟田",
+        "name_en": "新大牟田",
+        "name_tc": "新大牟田",
+        "line": "九州新幹線 / Kyushu Shinkansen / 九州新幹線",
+        "color": "#e60012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4887535,
+          33.071315999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "筑後船小屋 / 筑後船小屋 / 筑後船小屋",
+        "name_jp": "筑後船小屋",
+        "name_en": "筑後船小屋",
+        "name_tc": "筑後船小屋",
+        "line": "九州新幹線 / Kyushu Shinkansen / 九州新幹線",
+        "color": "#e60012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.492433,
+          33.17797733333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "久留米 / 久留米 / 久留米",
+        "name_jp": "久留米",
+        "name_en": "久留米",
+        "name_tc": "久留米",
+        "line": "九州新幹線 / Kyushu Shinkansen / 九州新幹線",
+        "color": "#e60012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.501079,
+          33.320653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新鳥栖 / 新鳥栖 / 新鳥栖",
+        "name_jp": "新鳥栖",
+        "name_en": "新鳥栖",
+        "name_tc": "新鳥栖",
+        "line": "九州新幹線 / Kyushu Shinkansen / 九州新幹線",
+        "color": "#e60012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.49104233333333,
+          33.37052666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "博多 / Hakata / 博多",
+        "name_jp": "博多",
+        "name_en": "Hakata",
+        "name_tc": "博多",
+        "line": "九州新幹線 / Kyushu Shinkansen / 九州新幹線",
+        "color": "#e60012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.421175,
+          33.589574999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "飯山 / 飯山 / 飯山",
+        "name_jp": "飯山",
+        "name_en": "飯山",
+        "name_tc": "飯山",
+        "line": "北陸新幹線 / Hokuriku Shinkansen / 北陸新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.35901085,
+          36.845143199999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上越妙高 / 上越妙高 / 上越妙高",
+        "name_jp": "上越妙高",
+        "name_en": "上越妙高",
+        "name_tc": "上越妙高",
+        "line": "北陸新幹線 / Hokuriku Shinkansen / 北陸新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.24847131500002,
+          37.081367150000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上越妙高 / 上越妙高 / 上越妙高",
+        "name_jp": "上越妙高",
+        "name_en": "上越妙高",
+        "name_tc": "上越妙高",
+        "line": "北陸新幹線 / Hokuriku Shinkansen / 北陸新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.24847131500002,
+          37.081367150000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "糸魚川 / 糸魚川 / 糸魚川",
+        "name_jp": "糸魚川",
+        "name_en": "糸魚川",
+        "name_tc": "糸魚川",
+        "line": "北陸新幹線 / Hokuriku Shinkansen / 北陸新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.86129316,
+          37.043114454999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "黒部宇奈月温泉 / 黒部宇奈月温泉 / 黒部宇奈月温泉",
+        "name_jp": "黒部宇奈月温泉",
+        "name_en": "黒部宇奈月温泉",
+        "name_tc": "黒部宇奈月温泉",
+        "line": "北陸新幹線 / Hokuriku Shinkansen / 北陸新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.481125775,
+          36.87406446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "富山 / 富山 / 富山",
+        "name_jp": "富山",
+        "name_en": "富山",
+        "name_tc": "富山",
+        "line": "北陸新幹線 / Hokuriku Shinkansen / 北陸新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.21330643,
+          36.701438875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新高岡 / 新高岡 / 新高岡",
+        "name_jp": "新高岡",
+        "name_en": "新高岡",
+        "name_tc": "新高岡",
+        "line": "北陸新幹線 / Hokuriku Shinkansen / 北陸新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.01188026,
+          36.726952165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "金沢 / 金沢 / 金沢",
+        "name_jp": "金沢",
+        "name_en": "金沢",
+        "name_tc": "金沢",
+        "line": "北陸新幹線 / Hokuriku Shinkansen / 北陸新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.64804461,
+          36.57791512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "奥津軽いまべつ / 奥津軽いまべつ / 奥津軽いまべつ",
+        "name_jp": "奥津軽いまべつ",
+        "name_en": "奥津軽いまべつ",
+        "name_tc": "奥津軽いまべつ",
+        "line": "北海道新幹線 / Hokkaido Shinkansen / 北海道新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.515611968,
+          41.144941096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新青森 / 新青森 / 新青森",
+        "name_jp": "新青森",
+        "name_en": "新青森",
+        "name_tc": "新青森",
+        "line": "北海道新幹線 / Hokkaido Shinkansen / 北海道新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.69347975,
+          40.82779875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新函館北斗 / 新函館北斗 / 新函館北斗",
+        "name_jp": "新函館北斗",
+        "name_en": "新函館北斗",
+        "name_tc": "新函館北斗",
+        "line": "北海道新幹線 / Hokkaido Shinkansen / 北海道新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.64864975,
+          41.90463233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "木古内 / 木古内 / 木古内",
+        "name_jp": "木古内",
+        "name_en": "木古内",
+        "name_tc": "木古内",
+        "line": "北海道新幹線 / Hokkaido Shinkansen / 北海道新幹線",
+        "color": "#2E8B57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.434152005,
+          41.678478319999996
+        ]
+      }
+    }
+  ]
+}
