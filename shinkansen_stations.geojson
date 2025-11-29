@@ -1680,7 +1680,7 @@
       "properties": {
         "name": "上野 / 上野 / 上野",
         "name_jp": "上野",
-        "name_en": "上野",
+        "name_en": "Ueno",
         "name_tc": "上野",
         "line": "東北新幹線 / Tohoku Shinkansen / 東北新幹線",
         "color": "#2E8B57"
@@ -2216,4 +2216,5 @@
       }
     }
   ]
+
 }
