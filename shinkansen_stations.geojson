@@ -1302,8 +1302,8 @@
       "properties": {
         "name": "田沢湖 / 田沢湖 / 田沢湖",
         "name_jp": "田沢湖",
-        "name_en": "田沢湖",
-        "name_tc": "田沢湖",
+        "name_en": "Tazawako",
+        "name_tc": "田澤湖",
         "line": "秋田新幹線 / Akita Shinkansen / 秋田新幹線",
         "color": "#990099"
       },
@@ -2218,3 +2218,4 @@
   ]
 
 }
+
