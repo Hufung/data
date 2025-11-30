@@ -1264,9 +1264,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "雫石 / 雫石 / 雫石",
+        "name": "雫石 / Shizukuishi / 雫石",
         "name_jp": "雫石",
-        "name_en": "雫石",
+        "name_en": "Shizukuishi",
         "name_tc": "雫石",
         "line": "秋田新幹線 / Akita Shinkansen / 秋田新幹線",
         "color": "#990099"
@@ -2218,4 +2218,5 @@
   ]
 
 }
+
 
